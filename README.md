@@ -5,7 +5,6 @@ Pequeña guía para arrancar el proyecto en local.
 ## Prerrequisitos
 
 * [Node.js](https://nodejs.org/) v16+
-* [Git](https://git-scm.com/) instalado
 
 ## Pasos
 
@@ -51,4 +50,4 @@ Pequeña guía para arrancar el proyecto en local.
 
 ---
 
-¡Listo! Ya puedes navegar por tu portafolio y ver los cambios en caliente. 🚀
+¡Listo! Ya puedes navegar por tu portafolio y ver los cambios en caliente. 
