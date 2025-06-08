@@ -22,13 +22,13 @@ export default function ContactSection() {
       </p>
       <div style={socialIcons}>
         <a href="https://github.com/SaintPage" target="_blank" rel="noopener noreferrer">
-          <img src="/images/Git.png" alt="GitHub" style={iconStyle} />
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style={iconStyle} />
         </a>
         <a href="https://www.linkedin.com/in/angel-merida-4b022136a/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/link.png" alt="LinkedIn" style={iconStyle} />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" style={iconStyle} />
         </a>
         <a href="https://www.instagram.com/an.gelm21/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/IG.png" alt="Instagram" style={iconStyle} />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" style={iconStyle} />
         </a>
       </div>
     </div>

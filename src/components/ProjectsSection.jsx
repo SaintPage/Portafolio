@@ -7,7 +7,7 @@ const proyectos = [
     title: "Calculadora",
     description:
       "Calculadora científica que cuenta con funciones básicas y Test, subida a la web del curso",
-    imageSrc: "/images/Calculadora.png", 
+    imageSrc: "https://static.vecteezy.com/system/resources/previews/052/637/687/non_2x/futuristic-glowing-calculator-displaying-number-8251-on-dark-background-vector.jpg", 
     techStack: ["React", "Vite", "CSS"],
     repoLink: "https://github.com/SaintPage/Calculadora_Web/",
     demoLink: "https://calicheoficial.lat/23661/Calculadora/"
@@ -16,7 +16,7 @@ const proyectos = [
     title: "PharmaCenter",
     description:
       "Organización de medicamentos de una clínica ubicada en Quetzaltenango",
-    imageSrc: "/images/Farmacia.jpg",
+    imageSrc: "https://www.inside-pharmacy.com/wp-content/uploads/2019/06/farmacias-modernas-1024x682.jpg",
     techStack: ["React", "Vite", "Node.js", "Express", "CSS"],
     repoLink: "https://github.com/Josero31/pharmacenter_proyecto",
     demoLink: null
