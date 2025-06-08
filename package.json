@@ -1,0 +1,35 @@
+{
+  "name": "mi-portafolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@storybook/addon-docs": "^9.0.5",
+    "@storybook/addon-onboarding": "^9.0.5",
+    "@storybook/react-vite": "^9.0.5",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "eslint-plugin-storybook": "^9.0.5",
+    "globals": "^16.0.0",
+    "prop-types": "^15.8.1",
+    "storybook": "^9.0.5",
+    "vite": "^6.3.5"
+  }
+}

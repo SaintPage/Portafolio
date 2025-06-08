@@ -1,0 +1,45 @@
+/* src/styles/HeroSection.module.css */
+
+.heroContainer {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  display: block;
+}
+
+.bgImage {
+  position: absolute;
+  inset: 0;
+  background: url("/images/collag.png") no-repeat center/cover;
+  transform: scale(1);
+  transition: transform 0.2s ease-out;
+}
+
+.heroContainer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.inner {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+.heroTitle {
+  font-size: 8rem;
+  color: #fafafa;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 5rem;
+  color: #e5e7eb;
+  margin: 0;
+}
